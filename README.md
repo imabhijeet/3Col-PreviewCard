@@ -42,5 +42,5 @@ While working on this project, I learned to create a responsive three column pro
 - LinkedIn - [Abhijeet Sharma](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 - Frontend Mentor - [@imabhijeet](https://www.frontendmentor.io/profile/imabhijeet)
 - Twitter - [@cosmicDev12](https://twitter.com/cosmicDev12)
-- Behance - [Abhijeet Sharma @ Behance](https://www.behance.net/abhijeetsharma17)
+- Behance - [AbhijeetSharma@Behance](https://www.behance.net/abhijeetsharma17)
 
