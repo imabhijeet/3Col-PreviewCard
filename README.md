@@ -22,8 +22,13 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Links
+<<<<<<< HEAD
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Click Here](https://imabhijeet.github.io/3Col-PreviewCard/)
+=======
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/three-column-card-component-QnPPN84PQe)
+- Live Site URL:[Click Here](https://imabhijeet.github.io/3Col-PreviewCard/)
+>>>>>>> 2b0e713e389e3072971896c62242896945723bd1
 
 ## My process
 
@@ -42,5 +47,5 @@ While working on this project, I learned to create a responsive three column pro
 - LinkedIn - [Abhijeet Sharma](https://www.linkedin.com/in/abhijeet-sharma-994064227/)
 - Frontend Mentor - [@imabhijeet](https://www.frontendmentor.io/profile/imabhijeet)
 - Twitter - [@cosmicDev12](https://twitter.com/cosmicDev12)
-- Behance - [Abhijeet Sharma @ Behance](https://www.behance.net/abhijeetsharma17)
+- Behance - [AbhijeetSharma@Behance](https://www.behance.net/abhijeetsharma17)
 
