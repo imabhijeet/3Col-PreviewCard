@@ -43,6 +43,10 @@ button {
     font-weight: 600;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #first {
     color: hsl(31, 77%, 52%);
 }
