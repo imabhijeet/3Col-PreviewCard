@@ -22,13 +22,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Links
-<<<<<<< HEAD
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://imabhijeet.github.io/3Col-PreviewCard/)
-=======
+
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/three-column-card-component-QnPPN84PQe)
 - Live Site URL:[Click Here](https://imabhijeet.github.io/3Col-PreviewCard/)
->>>>>>> 2b0e713e389e3072971896c62242896945723bd1
 
 ## My process
 
